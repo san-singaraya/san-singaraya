@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=san-singaraya&label=Profile%20views&color=0e75b6&style=flat" alt="san-singaraya" /> </p>
 
 
-- 🌱 I’m currently learning **Data Analyst | Scientist Course**
+- 🌱 I’m currently learning **Data Analyst | Data Scientist  **
 
 - 📫 How to reach me **singaraya.san@gmail.com**
 
