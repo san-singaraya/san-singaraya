@@ -3,8 +3,8 @@
 
   <p align="center">
   <samp>
-    <b>Embedded Software Enginner</b> | Hardware Engineer<br>
-    <b>Aspiring Embedded Software Engineer | C | ARM | STM32 | RTOS | IOT
+    <b>Physical Design Enginner</b> | Hardware Engineer<br>
+    <b>Aspiring VLSI Physical Design Engineer | ASIC Backend Design | Floorplanning | Placement & Routing | STA | Physical Verification | Semiconductor Industry
   </samp>
 </p>
 
@@ -28,7 +28,7 @@
     <tr style="border: none;">
       <td width="100%" align="center" style="border: none;">
         <samp>
-          <b>STATUS:</b> Building Embedded Modules | C | ARM | STM32 | RTOS | IOT
+          <b>STATUS:</b> VLSI Physical Design Engineer | ASIC Backend Design | Floorplanning | Placement & Routing | STA | Physical Verification | Semiconductor Industry
         </samp>
       </td>
     </tr>
