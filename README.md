@@ -3,8 +3,8 @@
 
   <p align="center">
   <samp>
-    <b>Physical Design Enginner</b> | Hardware Engineer<br>
-    <b>Aspiring VLSI Physical Design Engineer | ASIC Backend Design | Floorplanning | Placement & Routing | STA | Physical Verification | Semiconductor Industry
+    <b>Embedded IOT Software Enginner</b> | Embedded Engineer<br>
+    <b>Aspiring Embedded Software Engineer STA | Physical Verification | Semiconductor Industry
   </samp>
 </p>
 
