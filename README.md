@@ -28,7 +28,7 @@
     <tr style="border: none;">
       <td width="100%" align="center" style="border: none;">
         <samp>
-          <b>STATUS:</b> VLSI Physical Design Engineer | ASIC Backend Design | Floorplanning | Placement & Routing | STA | Physical Verification | Semiconductor Industry
+          <b>STATUS:</b> Embedded IOT Software Engineer | STA | Physical Verification | Semiconductor Industry
         </samp>
       </td>
     </tr>
