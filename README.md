@@ -9,7 +9,7 @@
 </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/singaraya-santhosh/"><img src="https://img.shields.io/badge/-LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+    <a href="https://www.linkedin.com/in/san-singaraya/"><img src="https://img.shields.io/badge/-LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
     <a href="mailto:singaraya.san@gmail.com"><img src="https://img.shields.io/badge/-Gmail-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   </p>
 </div>
